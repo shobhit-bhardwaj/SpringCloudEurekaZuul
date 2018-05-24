@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: EmployProducer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: A1000891
+Implementation-Vendor-Id: com.employProducer
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/EmployProduc
+ er/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
